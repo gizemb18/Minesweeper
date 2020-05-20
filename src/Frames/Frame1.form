@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JInternalFrameFormInfo">
+  <Properties>
+    <Property name="closable" type="boolean" value="true"/>
+    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="ff" green="ff" id="white" palette="1" red="ff" type="palette"/>
+    </Property>
+    <Property name="iconifiable" type="boolean" value="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="1" pref="384" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="1" pref="348" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextPane" name="jTextPane1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Ger&#xe7;eklikle kar&#x15f;&#x131;la&#x15f;t&#x131;r&#x131;ld&#x131;&#x11f;&#x131;nda, bilimde vard&#x131;&#x11f;&#x131;m&#x131;z d&#xfc;zey ilkeldir, &#xe7;ocuk oyunca&#x11f;&#x131;d&#x131;r. Ama sahip oldu&#x11f;umuz en de&#x11f;erli &#x15f;ey odur. - Albert Einstein&#xa;&#xa;&#xa;&#xa;D&#xfc;&#x15f;&#xfc;n&#xfc;yorum, d&#xfc;&#x15f;&#xfc;n&#xfc;yorum, aylarca ve y&#x131;llarca. Doksan dokuz kez vard&#x131;&#x11f;&#x131;m sonu&#xe7; yanl&#x131;&#x15f;. Y&#xfc;z&#xfc;nc&#xfc; de do&#x11f;ru &#xe7;&#x131;k&#x131;yorum. - Albert Einstein &#xa;&#xa;&#xa;&#xa;Bilim, bilgi k&#xfc;tlesinden daha fazlas&#x131;; bir d&#xfc;&#x15f;&#xfc;nme tarz&#x131;d&#x131;r. Evrenin ku&#x15f;kuyla sorgulanma tarz&#x131;d&#x131;r. E&#x11f;er &#x15f;&#xfc;pheci yakla&#x15f;mamak i&#xe7;in otoriteye ku&#x15f;kucu sorular soram&#x131;yorsak o zaman tam bir kaos i&#xe7;indeyiz. - Carl Sagan "/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
